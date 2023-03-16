@@ -1,0 +1,6 @@
+numpy
+scipy
+numpy-quaternion
+matplotlib
+cv2 
+gym
